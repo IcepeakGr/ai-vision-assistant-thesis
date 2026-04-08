@@ -1,0 +1,11 @@
+ultralytics
+opencv-python
+supervision
+SpeechRecognition
+gTTS
+pygame
+pyttsx3
+matplotlib
+pandas
+scikit-learn
+numpy
